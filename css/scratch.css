@@ -1,0 +1,41 @@
+/* scratch.css */
+  
+  .header {
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-style: bold;
+  }
+
+    .smallheader {
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .body {
+    color: white;
+    background-color: #1798C1;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+  }
+
+  .navigation {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    background-color: black;
+  }
+
+  .footer {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-style: bold;
+  }
